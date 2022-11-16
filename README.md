@@ -1,3 +1,1 @@
-- 🧙 Hi, my name is baltus
-- 🌱 I’m currently learning javascript!
-- 💞️ I’m looking to collaborate on all kinds of stuff
+- 🧙 baltus go brrr
